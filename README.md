@@ -6,19 +6,10 @@ An ESP32-based wearable glove that translates hand gestures into speech in real 
 
 ## 📸 Project Photos
 
-<!-- Add your project photos to an "images" folder and update the paths below -->
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/ba67c3c3-b0dd-47db-996d-bb727a8968f4" />
 
-| | |
-|---|---|
-| ![Glove Overview](images/glove_overview.jpg) | ![Circuit Wiring](images/circuit_wiring.jpg) |
-| *Full glove assembly* | *Circuit and wiring* |
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/49bb43fb-e51c-4f2a-ba15-68d660e701cb" />
 
-| | |
-|---|---|
-| ![Web Dashboard](images/web_dashboard.jpg) | ![Sensors Close-up](images/sensors_closeup.jpg) |
-| *Web dashboard on phone* | *MPU6050 sensor placement* |
-
-> **To add your photos:** Create an `images/` folder in the project directory, place your photos there, and update the filenames above.
 
 ---
 
